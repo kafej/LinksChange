@@ -1,0 +1,19 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background:;
+	font-size: 16px;
+	margin: 0;
+	overflow: hidden;
+}
+a {
+	color: #333333;
+}
+a img {
+	border:none;
+}
+.example {
+	font-size: 24px;
+}
+.howto {
+	
+}
